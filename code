@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg xm1ns="https://www.w3.org/2000/svg" width="472" height="392">
+  <line x1="100"y1="100" x2="300"y2="100" style="stroke":rgb(255,0,0);stroke-width:2"/>
+  <line x1="100"y1="100" x2="100"y2="300" style="stroke":rgb(255,0,0);stroke-width:2"/>
+  <line x1="300"y1="100" x2="300"y2="300" style="stroke":rgb(255,0,0);stroke-width:2"/>
+  <line x1="100"y1="300" x2="300"y2="300" style="stroke":rgb(255,0,0);stroke-width:2"/>
+  <line x1="100"y1="100" x2="200"y2="25" style="stroke":rgb(255,0,0);stroke-width:2"/>
+  <line x1="300"y1="100" x2="200"y2="25" style="stroke":rgb(255,0,0);stroke-width:2"/>
+<text x="100" y="500" fill="red" class="style1">André Sánchez</text>
+ </svg>
